@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/3.\ Common\ Programming\ Concepts/functions/target/debug/functions: /Users/fatah/Documents/private/learn-rust-practice-book/3.\ Common\ Programming\ Concepts/functions/src/main.rs

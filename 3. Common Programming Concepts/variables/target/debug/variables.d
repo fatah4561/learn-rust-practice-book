@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/3.\ Common\ Programming\ Concepts/variables/target/debug/variables: /Users/fatah/Documents/private/learn-rust-practice-book/3.\ Common\ Programming\ Concepts/variables/src/main.rs
