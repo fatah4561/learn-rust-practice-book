@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/4.\ Ownership/learn_ownership/target/debug/learn_ownership: /Users/fatah/Documents/private/learn-rust-practice-book/4.\ Ownership/learn_ownership/src/main.rs
