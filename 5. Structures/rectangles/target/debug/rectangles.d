@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/5.\ Structures/rectangles/target/debug/rectangles: /Users/fatah/Documents/private/learn-rust-practice-book/5.\ Structures/rectangles/src/main.rs
