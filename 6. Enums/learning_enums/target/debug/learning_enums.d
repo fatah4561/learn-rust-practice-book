@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/6.\ Enums/learning_enums/target/debug/learning_enums: /Users/fatah/Documents/private/learn-rust-practice-book/6.\ Enums/learning_enums/src/main.rs
