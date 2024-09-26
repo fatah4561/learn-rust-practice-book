@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/8.\ Common\ Collections/vector/target/debug/vector: /Users/fatah/Documents/private/learn-rust-practice-book/8.\ Common\ Collections/vector/src/main.rs
