@@ -1,0 +1,6 @@
+[package] # this is package it has cargo.toml
+name = "my-project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

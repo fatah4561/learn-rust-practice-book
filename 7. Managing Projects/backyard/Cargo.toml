@@ -1,0 +1,8 @@
+[package]
+name = "backyard"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+restaurant = { path = "restaurant" }
+rand = "0.8.5"
