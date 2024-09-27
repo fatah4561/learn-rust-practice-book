@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/8.\ Common\ Collections/exercises/target/debug/exercises: /Users/fatah/Documents/private/learn-rust-practice-book/8.\ Common\ Collections/exercises/src/main.rs
