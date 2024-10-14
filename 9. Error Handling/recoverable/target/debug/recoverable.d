@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/9.\ Error\ Handling/recoverable/target/debug/recoverable: /Users/fatah/Documents/private/learn-rust-practice-book/9.\ Error\ Handling/recoverable/src/main.rs

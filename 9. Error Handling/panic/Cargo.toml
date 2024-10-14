@@ -1,0 +1,9 @@
+[package]
+name = "panic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[profile.release] # panic without cleaning up the stack first
+panic = 'abort'
