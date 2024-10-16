@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/10.\ Generic\ Types,\ Traits,\ &\ Lifetimes/generics/target/debug/generics: /Users/fatah/Documents/private/learn-rust-practice-book/10.\ Generic\ Types,\ Traits,\ &\ Lifetimes/generics/src/main.rs
