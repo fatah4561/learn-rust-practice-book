@@ -1,0 +1,1 @@
+/Users/fatah/Documents/private/learn-rust-practice-book/11.\ Test/testing/target/debug/testing: /Users/fatah/Documents/private/learn-rust-practice-book/11.\ Test/testing/adder/src/lib.rs /Users/fatah/Documents/private/learn-rust-practice-book/11.\ Test/testing/controlling/src/lib.rs /Users/fatah/Documents/private/learn-rust-practice-book/11.\ Test/testing/src/main.rs

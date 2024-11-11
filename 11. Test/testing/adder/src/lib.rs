@@ -68,8 +68,8 @@ mod tests {
     #[test]
     #[should_panic(expected="less than or equal to 100")] // with expectation of panic mesage
     fn guess_with_expected() {
-        // Guess::new(200);
-        Guess::new(-1);
+        Guess::new(200);
+        // Guess::new(-1);
     }
 
     #[test]
